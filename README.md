@@ -25,3 +25,9 @@
 </p>
 
 ### Website for MBW institute
+
+#### How to contribute:
+
+- Fork the project and clone it to work on.
+- Make a seperate branch for all major change. 
+- Make a pull request into the master after testing.
