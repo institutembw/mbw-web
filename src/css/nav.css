@@ -1,0 +1,149 @@
+
+
+
+
+
+
+
+  .examples{
+    display: block;
+  }
+  
+    
+    
+    @media screen and (max-width: 1200px) {
+      .examples {
+        display: none;
+      }
+     
+    }
+/* 
+.change{
+  display: none;
+  background-color:green;
+}
+
+.changed{
+  display: block;
+  background-color: rgb(150, 140, 140);
+  position: absolute;
+  top:53px;
+right:147px;
+  
+}
+
+.changed.a:hover{
+  background-color: #f1f1f1
+} */
+
+
+
+
+#myDIV {
+  position: absolute;
+  right: 0;
+  margin-top: 15px;
+  min-width: 100px;
+  background-color:white;
+}
+
+
+#myDIV a{
+  background-color:white;
+  display: block;
+  padding: 4px;
+}
+
+#myDIV1 {
+  position: absolute;
+  right: 0;
+  margin-top: 15px;
+  min-width: 100px;
+  background-color:white;
+}
+
+
+#myDIV1 a{
+  background-color:white;
+  display: block;
+  padding: 4px;
+}
+
+
+    .between{
+      display: block;
+    }
+    
+      
+      
+      @media screen and (min-width: 1200px) {
+        .between {
+          display: none;
+        }
+
+        .table2{
+          display: table;
+          background-color: red;
+        }
+
+        .table1{
+          display: none;
+        }
+       
+      }
+
+      @media screen and (max-width: 700px) {
+        .between {
+          display: none;
+        }
+       
+      }
+
+
+      .small{
+        display: block;
+      }
+      
+        
+        
+        @media screen and (min-width: 700px) {
+          .small {
+            display: none;
+          }
+         
+        }
+
+        /* .table1{
+          display: table;
+          background-color: yellow;
+        }
+
+        .table2{
+          display: none;
+        background-color: yellow;
+          
+        } */
+
+
+        
+  
+       
+
+
+
+
+
+
+
+  /* div.examples {
+    
+    display: none;
+  }
+  
+  @media screen and (min-width: 600px) {
+    div.examples {
+      
+      background-color: red;
+    padding: 20px;
+    }} */
+
