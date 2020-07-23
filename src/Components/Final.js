@@ -121,7 +121,7 @@ render(){
     </a></div>
 
   <div class="one wide column vis"><a   style={{float:"right", padding: "10px 0px 0px 0px",color:"blue"}}>
-    Donate
+    Support
     </a></div>
 
   <div class="one wide column vis"><a  style={{float:"right", padding: "10px 0px 0px 0px",color:"blue"}}>Login</a></div>
@@ -210,7 +210,7 @@ render(){
   <a   style={{color:"blue"}}>Sign Up</a>
   <hr></hr>
 <a   style={{color:"blue"}}>
-    Donate
+    Support
     </a>
 <hr></hr>
 <a  style={{color:"blue"}}>Teach on MBWI</a>
