@@ -159,7 +159,7 @@ render(){
   <a   style={{color:"blue"}}>Sign Up</a>
   <hr></hr>
 <a   style={{color:"blue"}}>
-    Donate
+    Support
     </a>
 <hr></hr>
 <a  style={{color:"blue"}}>Teach on MBWI</a>
